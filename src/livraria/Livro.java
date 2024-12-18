@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class Livro {
 
+
+
+
+
     String titulo, genero;
     float preco;
     Autor autor;
